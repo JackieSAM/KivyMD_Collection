@@ -62,7 +62,7 @@ Download the package for your system, install as a normal application and run:
 
 <p align="left">
   <a href="https://drive.google.com/uc?export=download&id=1ECFuup4DEUf5P_aqDHipar0Oe6q2AXWR">
-    <img src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/linux.png" title="Linux package">
+    <img src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/linux.png" title="Download *.AppImage package for Linux">
   </a>
 </p>
 
@@ -83,7 +83,7 @@ or click the `Is executable` checkbox if you are using Dolphin, or change the `E
 
 <p align="center">
   <a href="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/app-image-run.gif">
-    <img width="640" src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/app-image-run.gif" title="With the GUI">
+    <img width="400" src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/app-image-run.gif" title="With the GUI">
   </a>
 </p>
 
@@ -98,7 +98,7 @@ It will automatically add downloaded AppImages to the menu and make them executa
 
 <p align="left">
   <a href="https://drive.google.com/uc?export=download&id=1unGMX04kG3Bh_1fpIHwJsmNhpdAFFpFS">
-    <img src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/macos.png" title="Mac OS package">
+    <img src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/macos.png" title="Download *.dmg package for Mac OS">
   </a>
 </p>
 
