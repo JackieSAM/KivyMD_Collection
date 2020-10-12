@@ -51,6 +51,11 @@ You install the KivyMD Collection application on your computer. After installati
 All examples are accompanied by detailed documentation. Three new examples will be available every month
 provided that you make a monthly contribution (of any amount) to the development of the KivyMD library in the [open collective](https://opencollective.com/kivymd).
 
+# Who can work with the KivyMDCollection app
+
+The documentation in the KivyMDCollection app is not meant for beginners. The documentation does not explain the basics of using the KivyMD library.
+You should have sufficient experience of using the Kivy framework and KivyMD library.
+
 # Installation
 
 Download the package for your system, install as a normal application and run:
