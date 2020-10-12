@@ -91,13 +91,13 @@ or click the `Is executable` checkbox if you are using Dolphin, or change the `E
 If you would like to have all AppImages be executable automatically, you can install the optional appimaged daemon.
 It will automatically add downloaded AppImages to the menu and make them executable for you. It can be downloaded from https://github.com/AppImage/AppImageKit/releases or installed from your distribution.
 
-<p align="left">
+<p align="center">
   <a href="https://drive.google.com/uc?export=download&id=1unGMX04kG3Bh_1fpIHwJsmNhpdAFFpFS">
     <img src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/macos.png" title="Mac OS package">
   </a>
 </p>
 
-# How to install use `*dmg` file
+# How to install use *dmg file
 
 Since we do not have a developer certificate, most likely the application for Mac OS will be blocked by the system.
 
@@ -109,7 +109,7 @@ Another way to open a blocked app is to locate the app in a Finder window.
 2. Locate the app (it might be in the Applications folder, or it might still be in your downloads folder).
 3. `Ctrl-Click` or right-click on the app.
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/open_libraoffice.png">
     <img src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/open_libraoffice.png" title="LibraOffice">
   </a>
@@ -117,7 +117,7 @@ Another way to open a blocked app is to locate the app in a Finder window.
 
 4. Select Open from the resultant menu and the app will be opened anyway, and an exception will be created for opening it normally (i.e. by double-clicking) in future.
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/libra_office_from_web.png">
     <img src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/libra_office_from_web.png" title="LibraOffice">
   </a>
