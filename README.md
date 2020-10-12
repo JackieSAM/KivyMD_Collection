@@ -91,7 +91,7 @@ or click the `Is executable` checkbox if you are using Dolphin, or change the `E
 If you would like to have all AppImages be executable automatically, you can install the optional appimaged daemon.
 It will automatically add downloaded AppImages to the menu and make them executable for you. It can be downloaded from https://github.com/AppImage/AppImageKit/releases or installed from your distribution.
 
-<p align="center">
+<p align="left">
   <a href="https://drive.google.com/uc?export=download&id=1unGMX04kG3Bh_1fpIHwJsmNhpdAFFpFS">
     <img src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/macos.png" title="Mac OS package">
   </a>
