@@ -78,7 +78,7 @@ or click the `Is executable` checkbox if you are using Dolphin, or change the `E
 
 <p align="center">
   <a href="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/app-image-run.gif">
-    <img width="800" src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/app-image-run.gif" title="With the GUI">
+    <img width="640" src="https://github.com/HeaTTheatR/KivyMD-data/raw/master/gallery/app-image-run.gif" title="With the GUI">
   </a>
 </p>
 
