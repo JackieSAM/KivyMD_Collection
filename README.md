@@ -49,11 +49,11 @@ You install the KivyMD Collection application on your computer. After installati
 - an example of animation by a widget for the KivyMD library
 
 All examples are accompanied by detailed documentation. Three new examples will be available every month
-provided that you make a monthly contribution (of any amount) to the development of the KivyMD library in the [open collective](https://opencollective.com/kivymd).
+provided that you make a monthly contribution (Backer with equal to or more than $5/month) to the development of the KivyMD library in the [open collective](https://opencollective.com/kivymd).
 
-# Who can work with the KivyMDCollection app?
+# Who can work with the KivyMD Collection app?
 
-The documentation in the KivyMDCollection app is not meant for beginners. The documentation does not explain the basics of using the KivyMD library.
+The documentation in the KivyMD Collection app is not meant for beginners. The documentation does not explain the basics of using the KivyMD library.
 You should have sufficient experience of using the Kivy framework and KivyMD library.
 
 # Installation
